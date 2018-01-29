@@ -16,4 +16,4 @@ for scale, please provide
 scale=A Bb B C Db D Eb E F Gb G Ab
 please note that it can't receive scales with octothorpes(#), only little b's (b)
 
-# If you want to collaborate, please send a pull request with new functionalities.
+# If you want to collaborate, please send a push request with new functionalities.
